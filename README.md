@@ -1,4 +1,4 @@
-# calculator
+# X-O Game
 
 A new Flutter project.
 
